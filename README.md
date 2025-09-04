@@ -45,7 +45,7 @@ A **Training & Coaching Platform** for interactive learning.
 
 ---
 
-### 🔹 [MapTaskr](https://kazboo.com/)  
+### 🔹 [MapTaskr](https://www.maptaskr.com/)  
 Projects for **CRM integrations & Mapping Solutions**.  
 - Integrated with **Dynamics CRM 365**  
 - Implemented **map annotations & real-time services**  
